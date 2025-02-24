@@ -94,7 +94,7 @@ with tab5:
     st.write("📧 **Correo Electrónico:**")
     st.write("- [wladimir.chavez@epn.edu.ec](mailto:wladimir.chavez@epn.edu.ec)")
     st.write("- [wladpato@hotmail.com](mailto:wladpato@hotmail.com)")
-    st.write("📱 **Celular:** 0984458153")
+    st.write("📱 **Celular:** +593 984458153")
 
     # Cargar y descargar automáticamente el archivo "DATOS EOR.xlsx"
     datos_eor_path = "DATOS EOR.xlsx"
