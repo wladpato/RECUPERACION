@@ -109,3 +109,5 @@ with tab5:
             )
     else:
         st.error("⚠️ No se encontró el archivo 'DATOS EOR.xlsx' en la carpeta del script.")
+        # Mostrar la imagen QR.png
+    st.image("QR.png", caption="Código QR del autor", use_column_width=True)
